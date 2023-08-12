@@ -146,7 +146,7 @@ Siga os passos a seguir para ter a aplicação rodando em sua máquina.
 
 1. Clonando o repositório
   ```sh
-    git clone git@github.com:brunofpessoa/API-store-manager-MSC.git
+    git clone git@github.com:jadsoncerqueira/API-store-manager.git
   ```
 2. Instalando as dependências
   ```sh
